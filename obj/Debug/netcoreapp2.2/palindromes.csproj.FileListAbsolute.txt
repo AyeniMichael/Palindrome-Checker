@@ -1,0 +1,11 @@
+C:\Users\Pope\desktop\c#\Palindromes\obj\Debug\netcoreapp2.2\palindromes.csprojAssemblyReference.cache
+C:\Users\Pope\desktop\c#\Palindromes\obj\Debug\netcoreapp2.2\palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Pope\desktop\c#\Palindromes\obj\Debug\netcoreapp2.2\palindromes.AssemblyInfoInputs.cache
+C:\Users\Pope\desktop\c#\Palindromes\obj\Debug\netcoreapp2.2\palindromes.AssemblyInfo.cs
+C:\Users\Pope\desktop\c#\Palindromes\bin\Debug\netcoreapp2.2\palindromes.deps.json
+C:\Users\Pope\desktop\c#\Palindromes\bin\Debug\netcoreapp2.2\palindromes.runtimeconfig.json
+C:\Users\Pope\desktop\c#\Palindromes\bin\Debug\netcoreapp2.2\palindromes.runtimeconfig.dev.json
+C:\Users\Pope\desktop\c#\Palindromes\bin\Debug\netcoreapp2.2\palindromes.dll
+C:\Users\Pope\desktop\c#\Palindromes\bin\Debug\netcoreapp2.2\palindromes.pdb
+C:\Users\Pope\desktop\c#\Palindromes\obj\Debug\netcoreapp2.2\palindromes.dll
+C:\Users\Pope\desktop\c#\Palindromes\obj\Debug\netcoreapp2.2\palindromes.pdb
